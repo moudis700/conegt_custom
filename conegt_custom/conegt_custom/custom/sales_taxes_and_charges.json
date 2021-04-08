@@ -1,0 +1,31 @@
+{
+ "custom_fields": [],
+ "custom_perms": [],
+ "doctype": "Sales Taxes and Charges",
+ "property_setters": [
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "creation": "2020-10-27 15:39:08.813312",
+   "default_value": null,
+   "doc_type": "Sales Taxes and Charges",
+   "docstatus": 0,
+   "doctype_or_field": "DocField",
+   "field_name": "rate",
+   "idx": 0,
+   "modified": "2020-10-27 15:39:08.813312",
+   "modified_by": "Administrator",
+   "name": "Sales Taxes and Charges-rate-label",
+   "owner": "Administrator",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "property": "label",
+   "property_type": "Data",
+   "value": "Percentage"
+  }
+ ],
+ "sync_on_migrate": 1
+}
